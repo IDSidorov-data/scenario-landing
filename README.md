@@ -1,4 +1,3 @@
-// [MODIFIED]
 # Scenario Landing Page
 
 Финансовый симулятор "Scenario" для принятия взвешенных бизнес-решений.
